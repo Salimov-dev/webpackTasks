@@ -1,4 +1,5 @@
-
+import '../index.css'
+import JS_IMAGE from '../assets/webpack.jpg'
 
 console.log('Hello World!');
 
